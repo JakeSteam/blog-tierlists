@@ -7,13 +7,13 @@ accent_colour: "#ff8d00"
 # Optional native feature customisation (delete to turn off)
 table_of_contents_header: "Jump to:"
 post_end_promo: <i><b>Enjoyed this? You might like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", my weeklyish newsletter of articles & found media.</b></i>
-google_analytics: todo
+google_analytics: G-NEJ111GHDH
 
 # Third party feature customisation (delete to turn off)
 giscus_repo: JakeSteam/blog-tierlists
-giscus_repo_id:
+giscus_repo_id: R_kgDOLl7VeA
 giscus_category: Comments
-giscus_category_id:
+giscus_category_id: DIC_kwDOLl7VeM4CeQOl
 
 network:
   - { name: Programming, url: "https://blog.jakelee.co.uk", colour: "#2a7ae2" }
