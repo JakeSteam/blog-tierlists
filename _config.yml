@@ -1,8 +1,8 @@
 # Basic site setup
 remote_theme: JakeSteam/minimaJake@1.0.13
-title: Accurate Tier Lists
+title: "100% Accurate Tier Lists"
 description: Objectively correct tier lists, guaranteed to be perfectly accurate!
-accent_colour: "#ad33a9"
+accent_colour: "#ff8d00"
 
 # Optional native feature customisation (delete to turn off)
 table_of_contents_header: "Jump to:"
@@ -27,6 +27,11 @@ network:
       name: Fragments,
       url: "https://fragments.jakelee.co.uk",
       colour: "#ad33a9",
+    }
+  - {
+      name: Tier Lists,
+      url: "https://tierlists.jakelee.co.uk",
+      colour: "#ff8d00",
     }
   - { name: Everything Else, url: "https://jakelee.co.uk", colour: "#acacac" }
 
