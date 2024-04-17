@@ -1,8 +1,9 @@
 # Basic site setup
-remote_theme: JakeSteam/minimaJake@1.0.13
+remote_theme: JakeSteam/minimaJake@1.0.14
 title: "100% Accurate Tier Lists"
 description: Objectively correct tier lists, guaranteed to be perfectly accurate!
 accent_colour: "#ff8d00"
+url: https://tierlists.jakelee.co.uk
 
 # Optional native feature customisation (delete to turn off)
 table_of_contents_header: "Jump to:"
